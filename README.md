@@ -1,4 +1,4 @@
-# java_cicd_demo
+# java_cicd
 
 Pipeline_script
 
